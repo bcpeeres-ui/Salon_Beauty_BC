@@ -2,4 +2,5 @@
 
 <h1 style = "color:#20B2AA;" > Sistema de Banco de Dados - Salão de Beleza</h1>
 <h3> Projeto Academico - Faculdade Cruzeiro do Sul </h3>
- 
+O projeto tem como objetivo desenvolver um sistema de agendamento de serviços, permitindo que clientes marquem horários com profissionais de forma organizada. O sistema facilita o cadastro de informações essenciais, controla os serviços oferecidos e registra todos os agendamentos realizados. Ele ajuda a manter o fluxo de atendimento mais eficiente, evita choques de horários e garante que cada agendamento tenha todos os dados necessários.
+Para isso, foram estruturadas tabelas que representam cada elemento essencial do processo. A tabela Cliente armazena dados dos usuários do sistema, como nome, telefone e e-mail. A tabela Serviço registra as opções de serviços oferecidos, incluindo descrição, preço e duração. A tabela Profissional contém informações sobre os trabalhadores responsáveis pelos atendimentos. Por fim, a tabela Agendamento reúne os dados dos horários marcados, relacionando cliente, serviço e profissional, além de registrar status e valor final. Essas estruturas permitem que o sistema funcione de maneira integrada, garantindo organização, consistência dos dados e facilidade no gerenciamento dos agendamentos.
